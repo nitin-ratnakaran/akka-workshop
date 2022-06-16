@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="customVMPath" />
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/shopping-analytics-service" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/shopping-analytics-service" />
+            <option value="$PROJECT_DIR$/shopping-analytics-service/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="1.5.6" />
+      </SbtProjectSettings>
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/shopping-cart-service" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/shopping-cart-service" />
+            <option value="$PROJECT_DIR$/shopping-cart-service/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="1.5.6" />
+      </SbtProjectSettings>
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/shopping-order-service" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/shopping-order-service" />
+            <option value="$PROJECT_DIR$/shopping-order-service/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="1.5.6" />
+      </SbtProjectSettings>
+    </option>
+  </component>
+</project>
